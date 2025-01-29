@@ -1,5 +1,7 @@
 1. "items left" incorrectly counts rows. If all rows are checked, it shows "-1".
+
 2. "active" is written in lowercase, while the other buttons are in uppercase.
+
 3. "Select" button works incorrectly: clicking once marks all rows as done, 
 when clicking a second time, the button only changes color,
 when clicking a third time, all rows are marked as uncompleted again.
